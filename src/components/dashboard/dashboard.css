@@ -1,0 +1,13 @@
+.wa{
+    width: 800px;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    margin-left: 350px;
+}
+img{
+    border-style:dashed;
+    border-width: 20px;
+    border-color: antiquewhite;
+    background-color: brown;
+}

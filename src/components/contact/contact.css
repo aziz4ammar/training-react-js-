@@ -1,0 +1,25 @@
+.hash{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    color: darkblue;
+    text-decoration: underline;
+    background-color:rgb(179, 247, 252);
+}
+.divi{
+    height: 250px;
+    width: 500px;
+    display: flex;
+    justify-content: center;
+    margin-left: 520px;
+    color: rgb(108, 26, 26);
+}
+.para{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+    background-color: cornsilk;
+    padding: 10px 10px 10px 10px;
+    border-radius: 5px;
+    border-color: brown;
+    border-style: solid;
+}

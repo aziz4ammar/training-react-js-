@@ -1,0 +1,8 @@
+.fan{
+    width: 800px;
+    height: 600px;
+    border-style: dashed;
+    border-width: 20px;
+    border-color: antiquewhite;
+    background-color: brown;
+}
